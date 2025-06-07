@@ -1,0 +1,7 @@
+{
+    "name": "@portal-solutions/swizz",
+    "workspaces": [],
+    "devDependencies": {
+        "typescript": "^5.8.3"
+    }
+}
