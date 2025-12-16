@@ -1,6 +1,10 @@
 {
     "name": "@portal-solutions/swizz",
-    "workspaces": [],
+    "workspaces": [
+        "swizz-core",
+        "swizz-boot-sw-core",
+        "swizz-crx-core"
+    ],
     "devDependencies": {
         "typescript": "^5.8.3"
     }
