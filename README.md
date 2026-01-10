@@ -1,13 +1,14 @@
 # @portal-solutions/swizz
 
 ## Description
-Project swizz
+A workspace (`swizz`) containing `swizz-core`, `swizz-boot-sw`, `swizz-crx`. Likely a browser extension or service worker framework.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Develop extension/SW framework
+- [ ] Manage boot processes
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace setup
 
 ---
 *AI assisted*
